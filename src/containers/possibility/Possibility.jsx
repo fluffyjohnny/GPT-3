@@ -1,10 +1,10 @@
 import React from 'react'
-import './blog.css'
+import './possibilty.css'
 
-const blog = () => {
+const Possibility = () => {
   return (
-    <div>blog</div>
+    <div>Possibility</div>
   )
 }
 
-export default blog
+export default Possibility

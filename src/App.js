@@ -1,4 +1,5 @@
 import React from 'react'
+import { Article, Brand, CTA, Feature, Navbar } from './components'
 
 const App = () => {
   return (
@@ -9,7 +10,7 @@ const App = () => {
       <h1>GPT-3</h1>
       <h1>GPT-3</h1>
       <h1>GPT-3</h1>
-      
+
     </div>
   )
 }
