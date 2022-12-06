@@ -1,4 +1,5 @@
 import React from "react";
+import "./App.css";
 import { Brand, CTA, Navbar } from "./components";
 import {
   Footer,
@@ -12,7 +13,7 @@ import {
 const App = () => {
   return (
     <div className="App">
-      <div>
+      <div className="gradient_bg">
         <Navbar />
         <Header />
       </div>
